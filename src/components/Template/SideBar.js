@@ -30,7 +30,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; PRATHAM SINGH <Link to="/">prathamsingh.vercel.app/</Link>.</p>
+      <p className="copyright">&copy; PRATHAM SINGH <Link to="/">prathamsingh.vercel.app</Link>.</p>
     </section>
   </section>
 );
