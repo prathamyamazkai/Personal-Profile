@@ -15,11 +15,6 @@ const skills = [
     category: ['Web Development', 'Javascript'],
   },
   {
-    title: 'Amazon Web Services',
-    competency: 2,
-    category: ['Web Development', 'Tools'],
-  },
-  {
     title: 'MongoDB',
     competency: 3,
     category: ['Web Development', 'Databases'],
@@ -30,7 +25,7 @@ const skills = [
     category: ['Web Development', 'Databases'],
   },
   {
-    title: 'Data Mining',
+    title: 'Data Analytics',
     competency: 3,
     category: ['ML Engineering'],
   },
