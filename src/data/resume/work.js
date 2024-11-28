@@ -14,14 +14,15 @@
 const work = [
   {
     name: 'Hi-Tech India Builders',
-    position: 'UI/UX assistant designer',
-    url: '',
-    startDate: '2022-09-08',
-    endDate: '2022-11-01',
+    position: 'Full-stack Intern',
+    url: 'https://hitechindiabuilders.in/',
+    startDate: '2023-09-01',
+    endDate: '2022-12-15',
     summary: 'Hi-Tech India Builders is a Construction Company.',
     highlights: [
-      'Created UI with the help of Figma',
-      'Worked on interaction design, user research and scenarios. ',
+      'Involved in Building and Designing Companies website. ',
+      'The tech stack involved in Creation of the website includes HTML, CSS, JavaScript, React and Node. ',
+      'Worked on user research and UX. ',
     ],
   },
 

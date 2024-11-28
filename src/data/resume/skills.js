@@ -21,7 +21,7 @@ const skills = [
   },
   {
     title: 'Redis',
-    competency: 2,
+    competency: 3,
     category: ['Web Development', 'Databases'],
   },
   {
@@ -31,17 +31,17 @@ const skills = [
   },
   {
     title: 'Google Cloud Compute',
-    competency: 2,
+    competency: 3,
     category: ['Tools', 'Web Development'],
   },
   {
     title: 'AWS',
-    competency: 3,
+    competency: 4,
     category: ['Tools', 'Web Development'],
   },
   {
     title: 'Docker',
-    competency: 3,
+    competency: 4,
     category: ['Tools', 'Data Engineering'],
   },
   {
@@ -86,7 +86,7 @@ const skills = [
   },
   {
     title: 'GraphQL',
-    competency: 2,
+    competency: 3,
     category: ['Web Development', 'Databases'],
   },
   {
