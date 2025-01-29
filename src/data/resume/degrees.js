@@ -1,6 +1,6 @@
 const degrees = [
   {
-    school: 'CMR UNIVERSITY',
+    school: 'CMRIT',
     degree: 'Bachelor’s in Computer Science Engineering',
     link: '',
     year: 2024,
